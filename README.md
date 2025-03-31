@@ -4,7 +4,8 @@ A flexible and feature-rich NFT implementation built with Clarity 6.0 for the St
 
 ## Overview
 
-Collectible Token is a robust smart contract that enables the creation, management, and trading of non-fungible tokens (NFTs) on the Stacks blockchain. Built with Clarity 6.0, this contract offers advanced features including batch minting, token destruction, and URI updates.
+Collectible Token is a robust smart contract that enables the creation, management, and trading of non-fungible tokens (NFTs) on the Stacks blockchain. 
+Built with Clarity 6.0, this contract offers advanced features including batch minting, token destruction, and URI updates.
 
 ## Features
 
